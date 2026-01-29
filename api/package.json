@@ -1,7 +1,0 @@
-{
-  "name": "arc-raiders-events-proxy",
-  "version": "1.0.0",
-  "description": "CORS-free proxy for ARC Raiders events",
-  "main": "api/events.js",
-  "license": "MIT"
-}
